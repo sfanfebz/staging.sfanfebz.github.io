@@ -2,55 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://sfanfebz.github.io/about/</loc>
-    <lastmod>2021-02-27T19:09:20+07:00</lastmod>
+    <loc>https://blog.stefanusfebri.com/about/</loc>
+    <lastmod>2021-02-27T20:20:46+07:00</lastmod>
   </url><url>
-    <loc>https://sfanfebz.github.io/categories/</loc>
+    <loc>https://blog.stefanusfebri.com/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://sfanfebz.github.io/fr/categories/"
+                href="https://blog.stefanusfebri.com/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://sfanfebz.github.io/categories/"
+                href="https://blog.stefanusfebri.com/categories/"
                 />
   </url><url>
-    <loc>https://sfanfebz.github.io/</loc>
+    <loc>https://blog.stefanusfebri.com/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://sfanfebz.github.io/fr/"
+                href="https://blog.stefanusfebri.com/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://sfanfebz.github.io/"
+                href="https://blog.stefanusfebri.com/"
                 />
   </url><url>
-    <loc>https://sfanfebz.github.io/series/</loc>
+    <loc>https://blog.stefanusfebri.com/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://sfanfebz.github.io/fr/series/"
+                href="https://blog.stefanusfebri.com/fr/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://sfanfebz.github.io/series/"
+                href="https://blog.stefanusfebri.com/series/"
                 />
   </url><url>
-    <loc>https://sfanfebz.github.io/tags/</loc>
+    <loc>https://blog.stefanusfebri.com/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://sfanfebz.github.io/fr/tags/"
+                href="https://blog.stefanusfebri.com/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://sfanfebz.github.io/tags/"
+                href="https://blog.stefanusfebri.com/tags/"
                 />
   </url>
 </urlset>

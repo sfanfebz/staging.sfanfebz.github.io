@@ -2,78 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://sfanfebz.github.io/fr/categories/</loc>
-    <lastmod>2021-02-27T16:04:56+07:00</lastmod>
+    <loc>https://blog.stefanusfebri.com/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://sfanfebz.github.io/categories/"
+                href="https://blog.stefanusfebri.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://sfanfebz.github.io/fr/categories/"
+                href="https://blog.stefanusfebri.com/fr/categories/"
                 />
   </url><url>
-    <loc>https://sfanfebz.github.io/fr/posts/2014/09/cr%C3%A9ation-dun-nouveau-th%C3%A8me/</loc>
-    <lastmod>2021-02-27T16:04:56+07:00</lastmod>
-  </url><url>
-    <loc>https://sfanfebz.github.io/fr/</loc>
-    <lastmod>2021-02-27T16:04:56+07:00</lastmod>
+    <loc>https://blog.stefanusfebri.com/fr/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://sfanfebz.github.io/"
+                href="https://blog.stefanusfebri.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://sfanfebz.github.io/fr/"
+                href="https://blog.stefanusfebri.com/fr/"
                 />
   </url><url>
-    <loc>https://sfanfebz.github.io/fr/categories/hugo/</loc>
-    <lastmod>2021-02-27T16:04:56+07:00</lastmod>
-  </url><url>
-    <loc>https://sfanfebz.github.io/fr/posts/</loc>
-    <lastmod>2021-02-27T16:04:56+07:00</lastmod>
-  </url><url>
-    <loc>https://sfanfebz.github.io/fr/posts/2014/04/d%C3%A9buter-avec-hugo/</loc>
-    <lastmod>2021-02-27T16:04:56+07:00</lastmod>
-  </url><url>
-    <loc>https://sfanfebz.github.io/fr/categories/go/</loc>
-    <lastmod>2021-02-27T16:04:56+07:00</lastmod>
-  </url><url>
-    <loc>https://sfanfebz.github.io/fr/posts/2014/04/introduction-aux-mod%C3%A8les-hugo/</loc>
-    <lastmod>2021-02-27T16:04:56+07:00</lastmod>
-  </url><url>
-    <loc>https://sfanfebz.github.io/fr/categories/jekyll/</loc>
-    <lastmod>2021-02-27T16:04:56+07:00</lastmod>
-  </url><url>
-    <loc>https://sfanfebz.github.io/fr/posts/2014/03/migrer-vers-hugo-depuis-jekyll/</loc>
-    <lastmod>2021-02-27T16:04:56+07:00</lastmod>
-  </url><url>
-    <loc>https://sfanfebz.github.io/fr/series/</loc>
+    <loc>https://blog.stefanusfebri.com/fr/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://sfanfebz.github.io/series/"
+                href="https://blog.stefanusfebri.com/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://sfanfebz.github.io/fr/series/"
+                href="https://blog.stefanusfebri.com/fr/series/"
                 />
   </url><url>
-    <loc>https://sfanfebz.github.io/fr/tags/</loc>
+    <loc>https://blog.stefanusfebri.com/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://sfanfebz.github.io/tags/"
+                href="https://blog.stefanusfebri.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://sfanfebz.github.io/fr/tags/"
+                href="https://blog.stefanusfebri.com/fr/tags/"
                 />
   </url>
 </urlset>
