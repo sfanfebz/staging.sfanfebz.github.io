@@ -2,52 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/fr/categories/</loc>
+    <loc>https://blog.stefanusfebri.com/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/"
+                href="https://blog.stefanusfebri.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/categories/"
+                href="https://blog.stefanusfebri.com/fr/categories/"
                 />
   </url><url>
-    <loc>/fr/</loc>
+    <loc>https://blog.stefanusfebri.com/fr/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="https://blog.stefanusfebri.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/"
+                href="https://blog.stefanusfebri.com/fr/"
                 />
   </url><url>
-    <loc>/fr/series/</loc>
+    <loc>https://blog.stefanusfebri.com/fr/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/series/"
+                href="https://blog.stefanusfebri.com/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/series/"
+                href="https://blog.stefanusfebri.com/fr/series/"
                 />
   </url><url>
-    <loc>/fr/tags/</loc>
+    <loc>https://blog.stefanusfebri.com/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/"
+                href="https://blog.stefanusfebri.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/tags/"
+                href="https://blog.stefanusfebri.com/fr/tags/"
                 />
   </url>
 </urlset>

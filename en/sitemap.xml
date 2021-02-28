@@ -2,55 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/about/</loc>
+    <loc>https://blog.stefanusfebri.com/about/</loc>
     <lastmod>2021-02-27T20:20:46+07:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://blog.stefanusfebri.com/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/categories/"
+                href="https://blog.stefanusfebri.com/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/"
+                href="https://blog.stefanusfebri.com/categories/"
                 />
   </url><url>
-    <loc>/</loc>
+    <loc>https://blog.stefanusfebri.com/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/"
+                href="https://blog.stefanusfebri.com/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="https://blog.stefanusfebri.com/"
                 />
   </url><url>
-    <loc>/series/</loc>
+    <loc>https://blog.stefanusfebri.com/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/series/"
+                href="https://blog.stefanusfebri.com/fr/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/series/"
+                href="https://blog.stefanusfebri.com/series/"
                 />
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://blog.stefanusfebri.com/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/tags/"
+                href="https://blog.stefanusfebri.com/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/"
+                href="https://blog.stefanusfebri.com/tags/"
                 />
   </url>
 </urlset>
